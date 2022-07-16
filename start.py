@@ -131,7 +131,7 @@ def main():
 os.system("clear")
 autoketik (f"{putih}[{biru}System{putih}] Subscribe to the Creator Channel !!")
 os.system("xdg-open https://youtube.com/channel/UCyyIDnXYJlRI_-2pAQqKr0g")
-time.sleep("5")
+time.sleep(5)
 autoketik (f"{putih}[{biru}System{putih}] Thx New Subscriber")
 time.sleep(5)
 banner()
